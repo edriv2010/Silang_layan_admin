@@ -1,0 +1,14 @@
+E:\Silang-Layan-Web-Admin\bin\Silang-Layan-Web-Admin.dll
+E:\Silang-Layan-Web-Admin\bin\Silang-Layan-Web-Admin.pdb
+E:\Silang-Layan-Web-Admin\obj\Debug\Silang-Layan-Web-Admin.dll
+E:\Silang-Layan-Web-Admin\obj\Debug\Silang-Layan-Web-Admin.pdb
+E:\Silang-Layan-Web-Admin\obj\Debug\Silang-Layan-Web-Admin.csprojResolveAssemblyReference.cache
+E:\Silang-Layan-Web-Admin\bin\AjaxControlToolkit.dll
+E:\Silang-Layan-Web-Admin\bin\itextsharp.dll
+E:\Silang-Layan-Web-Admin\bin\MARC.dll
+E:\Silang-Layan-Web-Admin\bin\MySql.Data.dll
+E:\Silang-Layan-Web-Admin\bin\Newtonsoft.Json.dll
+E:\Silang-Layan-Web-Admin\bin\Oracle.ManagedDataAccess.dll
+E:\Silang-Layan-Web-Admin\bin\SharpCompress.dll
+E:\Silang-Layan-Web-Admin\bin\ICSharpCode.SharpZipLib.dll
+E:\Silang-Layan-Web-Admin\bin\Ionic.Zip.Reduced.dll

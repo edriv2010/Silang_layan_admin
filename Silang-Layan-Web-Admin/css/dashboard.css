@@ -1,0 +1,122 @@
+﻿.fa-warning 
+{
+    color: Orange;
+}
+.small-box {
+    border-radius: 8px;
+    position: relative;
+    display: block;
+    border: thin solid #C0C0C0;
+    box-shadow: 0px 0px 4px #666;
+    font-family: Tahoma;
+    color: White;
+    padding: 10px !important;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    min-width: 180px;
+    margin-right: 20px;
+    margin-top: 10px;
+}
+.smallsuper-box {
+    border-radius: 8px;
+    position: relative;
+    display: block;
+    border: thin solid #C0C0C0;
+    box-shadow: 0px 0px 4px #666;
+    font-family: Tahoma;
+    color: White;
+    padding: 10px !important;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    opacity: 0.8;
+    min-height: 30px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.small-text-box
+{
+    border-radius: 2px;
+    position: relative;
+    display: block;
+    padding: 2px;
+    margin-top: 4px;
+    background-color: #FFFFE1;
+    color: #666666;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+.small-box2
+{
+    padding-bottom: 0px;
+    padding-top: 4px;
+    background-color: #000066;
+    box-shadow: 0px 0px 4px #666;
+    border: thin solid #C0C0C0;
+    opacity: 0.7;
+}
+.small-box3
+{
+    padding-bottom: 0px;
+    padding-top: 4px;
+    background-color: #003300;
+    box-shadow: 0px 0px 4px #666;
+    border: thin solid #C0C0C0;
+    opacity: 0.7;
+}
+.small-box2 h3
+{
+    font-size: 16px !important;
+}
+.small-box3 h3
+{
+    font-size: 16px !important;
+}
+.box-blue
+{
+   background-color: #3c8dbc;
+}
+.box-green
+{
+    background-color: #009551;
+}
+.box-orange
+{
+    background-color: #DA8C10;
+}
+.box-red
+{
+    background-color: #C64333;
+}
+.box-purple
+{
+    background-color: #990099;
+}
+.box-brown {
+    background-color: #381b0b;
+}
+.count_top
+{
+    font-size: 16px !important;    
+}
+.count2_top {
+    font-size: 14px !important;
+}
+.count a {
+    font-size: 30px;
+    line-height: 47px;
+    font-weight: 600;
+}
+.x_panel
+{
+    border-radius: 8px;
+    box-shadow: 0px 0px 8px #666;
+    padding-bottom: 20px;
+}
+.x_content {
+    margin-left: 0px;
+    margin-top: 0px;
+    padding-top: 20px;
+}
+.x_title {
+    margin-bottom: 0px;
+}

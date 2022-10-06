@@ -1,0 +1,286 @@
+﻿
+.button-success
+{
+    background-color: #5CB85C;
+    color: #FFFFFF;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    box-shadow: 0px 0px 4px #666666;
+    cursor: pointer;
+}
+
+.button-success:hover
+{
+    background-color: #449D44;
+    border-color: #398439
+}
+
+.button-success:focus
+{
+    background-color: #357B35;
+}
+
+.button-success:active
+{
+    opacity: 0.5;
+}
+
+.button-success[disabled="disabled"]
+{
+    background-color: #CCCCCC;
+    color: #666666;
+}
+
+.button-success[disabled="disabled"]:hover
+{
+    background-color: #CCCCCC;
+    border-color: #CCCCCC;
+}
+
+.button-success[disabled="disabled"]:focus
+{
+    background-color: #CCCCCC;
+}
+
+.button-success[disabled="disabled"]:active
+{
+    opacity: 1;
+}
+
+.button-primary
+{
+    background-color: #337AB7;
+    color: #FFFFFF;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    box-shadow: 0px 0px 4px #666666;
+    cursor: pointer;
+}
+
+.button-primary:hover
+{
+    background-color: #286090;
+    border-color: #204D74;
+}
+
+.button-primary:focus
+{
+    background-color: #255883;
+}
+
+.button-primary:active
+{
+    opacity: 0.5;
+}
+
+.button-primary[disabled="disabled"]
+{
+    background-color: #CCCCCC;
+    color: #666666;
+}
+
+.button-primary[disabled="disabled"]:hover
+{
+    background-color: #CCCCCC;
+    border-color: #CCCCCC;
+}
+
+.button-primary[disabled="disabled"]:focus
+{
+    background-color: #CCCCCC;
+}
+
+.button-primary[disabled="disabled"]:active
+{
+    opacity: 1;
+}
+
+.button-warning
+{
+    background-color: #F0AD4E;
+    color: #FFFFFF;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    box-shadow: 0px 0px 4px #666666;
+}
+
+.button-warning:hover
+{
+    background-color: #EC941C;
+    border-color: #D58512;
+}
+
+.button-warning:focus
+{
+    background-color: #D38212;
+}
+
+.button-warning:active
+{
+    opacity: 0.5;
+}
+
+.button-warning[disabled="disabled"]
+{
+    background-color: #CCCCCC;
+    color: #666666;
+}
+
+.button-warning[disabled="disabled"]:hover
+{
+    background-color: #CCCCCC;
+    border-color: #CCCCCC;
+}
+
+.button-warning[disabled="disabled"]:focus
+{
+    background-color: #CCCCCC;
+}
+
+.button-warning[disabled="disabled"]:active
+{
+    opacity: 1;
+}
+
+.button-danger
+{
+    background-color: #C9302C;
+    color: #FFFFFF;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    box-shadow: 0px 0px 4px #666666;
+}
+
+.button-danger:hover
+{
+    background-color: #D9534F;
+    border-color: #D43F3A;
+}
+
+.button-danger:focus
+{
+    background-color: #AF2825;
+}
+
+.button-danger:active
+{
+    opacity: 0.5;
+}
+
+.button-danger[disabled="disabled"]
+{
+    background-color: #CCCCCC;
+    color: #666666;
+}
+
+.button-danger[disabled="disabled"]:hover
+{
+    background-color: #CCCCCC;
+    border-color: #CCCCCC;
+}
+
+.button-danger[disabled="disabled"]:focus
+{
+    background-color: #CCCCCC;
+}
+
+.button-danger[disabled="disabled"]:active
+{
+    opacity: 1;
+}
+
+.button-info
+{
+    background-color: #5BC0DE;
+    color: #FFF;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    border-color: #46B8DA;
+    box-shadow: 0px 0px 4px #666666;
+}
+
+.button-info:hover
+{
+    background-color: #31B0D5;
+    border-color: #269ABC;
+}
+
+.button-info:focus
+{
+    background-color: #1F7E9A;
+}
+
+.button-info:active
+{
+    opacity: 0.5;
+}
+
+.button-info[disabled="disabled"]
+{
+    background-color: #CCCCCC;
+    color: #666666;
+}
+
+.button-info[disabled="disabled"]:hover
+{
+    background-color: #CCCCCC;
+    border-color: #CCCCCC;
+}
+
+.button-info[disabled="disabled"]:focus
+{
+    background-color: #CCCCCC;
+}
+
+.button-info[disabled="disabled"]:active
+{
+    opacity: 1;
+}
+
+.button-default
+{
+    background-color: #FFF;
+    color: #333;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    border-color: #CCC;
+    box-shadow: 0px 0px 4px #666666;
+}
+
+.button-default:hover
+{
+    background-color: #E6E6E6;
+    border-color: #ADADAD;
+}
+
+.button-default:focus
+{
+    background-color: #C1C1C1;
+}
+
+.button-default:active
+{
+    opacity: 0.5;
+}
+
+.button-default[disabled="disabled"]
+{
+    background-color: #CCCCCC;
+    color: #666666;
+}
+
+.button-default[disabled="disabled"]:hover
+{
+    background-color: #CCCCCC;
+    border-color: #CCCCCC;
+}
+
+.button-default[disabled="disabled"]:focus
+{
+    background-color: #CCCCCC;
+}
+
+.button-default[disabled="disabled"]:active
+{
+    opacity: 1;
+}

@@ -1,0 +1,184 @@
+@charset "utf-8";
+/* CSS Document */
+
+* { margin: 0; padding: 0; }
+
+html {
+	background-color: #f9f9f9;
+}
+
+body
+{
+	border-top-width: 30px;
+	border-top-style: solid;
+	font: 11px "Lucida Grande" , Verdana, Arial, "Bitstream Vera Sans" , sans-serif;
+}
+
+* html input,
+* html .widget {
+    border-color: #dfdfdf;
+}
+
+textarea,
+input,
+select {
+	border-color: #DFDFDF;
+}
+
+body {
+	color: #333;
+}
+
+.login #backtoblog a:hover {
+	color: #fff;
+}
+
+.error,
+#login #login_error {
+	background-color: #ffebe8;
+	border-color: #c00;
+}
+
+.error a {
+	color: #c00;
+}
+
+.submit input {
+	border-color: #298cba !important;
+	font-weight: bold;
+	color: #FFF !important;
+	background: #21759B;
+}
+
+a:active,
+a:focus {
+	color: #d54e21;
+}
+
+a:hover {
+	color: #d54e21;
+}
+
+.login #login_error,
+.login .message {
+	background-color: #ffffe0;
+	border-color: #e6db55;
+}
+
+.login #nav a {
+	color: #21759b !important;
+}
+
+.login #nav a:hover {
+	color: #d54e21 !important;
+}
+
+.login #backtoblog a {
+	color: #ccc;
+}
+
+body.login
+{
+	border-top-color: #6699FF;
+}
+
+#login form input {
+	color: #555;
+}
+
+form {
+	margin-left: 8px;
+	padding: 16px 16px 40px 16px;
+	font-weight: normal;
+	-moz-border-radius: 11px;
+	-khtml-border-radius: 11px;
+	-webkit-border-radius: 11px;
+	border-radius: 5px;
+	background: #fff;
+	border: 1px solid #e5e5e5;
+	-moz-box-shadow: rgba(200,200,200,1) 0 4px 18px;
+	-webkit-box-shadow: rgba(200,200,200,1) 0 4px 18px;
+	-khtml-box-shadow: rgba(200,200,200,1) 0 4px 18px;
+	box-shadow: rgba(200,200,200,1) 0 4px 18px;
+}
+
+.submit input {
+	font-family: "Lucida Grande", Verdana, Arial, "Bitstream Vera Sans", sans-serif;
+	padding: 3px 10px;
+	font-size: 12px;
+	border-width: 1px;
+	border-style: solid;
+	cursor: pointer;
+	text-decoration: none;
+}
+
+#login form p {
+	margin-bottom: 0;
+}
+
+label {
+	color: #777;
+	font-size: 13px;
+}
+
+.submit { float: right; }
+
+form p { margin-bottom: 24px; }
+
+#backtoblog a {
+	position: absolute;
+	top: 7px;
+	left: 15px;
+	text-decoration: none;
+}
+
+#login { width: 320px; margin: 3em auto; }
+
+#login_error, .message {
+	margin: 0 0 16px 8px;
+	border-width: 1px;
+	border-style: solid;
+	padding: 12px;
+	-moz-border-radius: 3px;
+	-khtml-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+}
+
+#nav { margin: 0 0 0 8px; padding: 16px; }
+
+#txtUserName, #txtPassword {
+	font-size: 24px;
+	width: 97%;
+	padding: 3px;
+	margin-top: 2px;
+	margin-right: 6px;
+	margin-bottom: 16px;
+	border: 1px solid #e5e5e5;
+	background: #fbfbfb;
+}
+
+.clear {
+	clear: both;
+}
+
+#login form input:focus
+{
+	background-color: #FFFF99;
+}
+
+#footer
+{
+	background: #F3F3F3;
+	color: #000000;
+	font: 11px "Trebuchet MS" , Arial, Helvetica, sans-serif;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-top-color: #DDDDDD;
+	height: 20px;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-bottom-color: #DDDDDD;
+	text-align: center;
+	padding-top: 7px;
+}

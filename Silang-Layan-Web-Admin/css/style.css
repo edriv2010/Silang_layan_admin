@@ -1,0 +1,153 @@
+﻿body {
+	margin: 10px;
+	font-family:Tahoma, Verdana, Arial;
+	font-size:80%;
+	color:#444;
+	direction:ltr;
+	background:url(../images/wave3header.jpg) top no-repeat;
+}
+
+/* Toolbar */
+table.toolbar    		 { border-collapse: collapse; padding: 0; margin: 0;	 }
+table.toolbar td 		 { padding: 1px 1px 1px 4px; text-align: center; color: #666; height: 48px; }
+table.toolbar td.spacer  { width: 10px; }
+table.toolbar td.divider { border-right: 1px solid #eee; width: 5px; }
+
+table.toolbar a {
+	display: block; float: left;
+	white-space: nowrap;
+	border: 1px solid #fbfbfb;
+	padding: 1px 5px;
+	cursor: pointer;
+}
+
+table.toolbar a:hover {
+	border-left: 1px solid #eee;
+	border-top: 1px solid #eee;
+	border-right: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+	text-decoration: none;
+	color: #0B55C4;
+}
+
+input:focus
+{
+	background-color: #FFFF99;
+}
+
+#footer
+{
+	background: #F3F3F3;
+	color: #000000;
+	font: 11px "Trebuchet MS" , Arial, Helvetica, sans-serif;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-top-color: #DDDDDD;
+	height: 20px;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-bottom-color: #DDDDDD;
+	text-align: center;
+	padding-top: 7px;
+}
+
+.WelcomeText
+{
+	padding-bottom:12px;
+}
+.WelcomeText h1
+{
+	color: #F4793A;
+	font-size: 16px;
+	margin-left:10px;
+}
+
+.TitleText
+{
+	background-color: #FFFFE8;
+}
+.TitleText h1
+{
+	color: #F4793A;
+	font-size: 16px;
+	margin-left:10px;
+}
+
+.LinkMenuText
+{
+	background-color: #F2F8FF;
+}
+
+.add {
+    height:16px;
+    line-height:16px;
+    background:url(../images/add_16.gif) left center no-repeat;
+    padding-left: 20px;
+}
+
+.edit {
+    height:16px;
+    line-height:16px;
+    background:url(../images/edit.gif) left center no-repeat;
+    padding-left: 20px;
+    color: Blue; text-decoration: underline; cursor: pointer;
+}
+
+/* Modal Popup CSS*/
+.mpBg
+{
+	background-color: #3753fc;
+	filter: alpha(opacity=30);
+	opacity: 0.3;
+}
+.mp
+{
+	background-color: white;
+	border-width: 3px;
+	border-style: solid;
+	border-color: Gray;
+	padding: 3px;
+}
+.mpHd
+{
+	background-color: #616cae;
+	border-color: White;
+	border-width: 1px;
+	color: White;
+	font-weight: bold;
+	width: 100%;
+	height: 16px;
+}
+.mpClose
+{
+	text-align: center;
+	width: 100%;
+}
+.mpCloseButton
+{
+	position: absolute;
+	right: 4px;
+	width: 17px;
+	height: 18px;
+}
+
+.list li 
+{
+	list-style-type:none;
+	padding-left: 22px;
+	background: url('../images/arrow_right_16.png') no-repeat left;
+}
+
+.MainTable
+{
+	border: thin solid #C0C0C0;
+	margin-left:auto;
+	margin-right:auto;
+	width:100%;
+}
+
+.highlight
+{
+text-decoration:none; font-weight:bold;
+color:black; background:yellow;
+}

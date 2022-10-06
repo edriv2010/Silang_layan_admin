@@ -1,0 +1,45 @@
+﻿<%@ Master Language="C#" AutoEventWireup="True" Inherits="_DefaultBlankMaster" Codebehind="DefaultBlank.master.cs" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title>SILANG LAYAN</title>
+    <link href="images/favicon.png" rel="shortcut icon" type="image/png" />
+    <link href="scripts/jquery/jquery-ui-1.8.16.custom.css" rel="stylesheet" type="text/css" />
+    <link href="styles/jquery-confirm.css" rel="stylesheet" type="text/css" />
+    <link href="css/grid.css" rel="stylesheet" type="text/css" />
+    <link href="styles/General.css" rel="stylesheet" type="text/css" />
+    <link href="styles/buttons.css" rel="stylesheet" type="text/css" />
+    <link href="usercontrol/MessageBoxUsc/style.css" rel="stylesheet" type="text/css" />
+    
+    <script src="scripts/jquery/jquery.1.8.2.min.js" type="text/javascript"></script>
+    <script src="scripts/jquery/jquery-ui-1.9.1.custom.min.js" type="text/javascript"></script>
+    <script type="text/javascript" src="scripts/General.js"></script>
+    <script src="js/jquery-confirm.js" type="text/javascript"></script>
+    <script src="js/Script.js" type="text/javascript"></script>
+</head>
+<body bgcolor="#1B4F76" style="font-family: Arial, Helvetica, sans-serif; font-size: 12px">
+    <form id="form1" runat="server">
+        <div style="width: 100%">
+            <table cellpadding="0" cellspacing="0" style="width: 100%; margin-left:auto; margin-right:auto; border-radius: 10px; box-shadow: 0px 0px 4px #000000;">
+              <tr>
+                <td valign="top" bgcolor="White" 
+                      style="padding: 0px; border: thin solid #C0C0C0;">
+                    <table style="width: 100%" cellspacing="0" cellpadding="0">
+                        <tr>
+                            <td colspan="2" 
+                                style="padding: 20px; margin: 0px; vertical-align: top; width: 900px;">
+                                <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server"></asp:ContentPlaceHolder>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+              </tr>
+            </table>
+            <br />
+            <br />
+            <br />
+        </div>
+    </form>
+</body>
+</html>

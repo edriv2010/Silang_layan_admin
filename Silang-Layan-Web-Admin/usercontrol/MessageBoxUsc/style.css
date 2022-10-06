@@ -1,0 +1,40 @@
+﻿body {
+}
+
+/* Modal Popup CSS*/
+.mpBg
+{
+	background-color: #3753fc;
+	filter: alpha(opacity=30);
+	opacity: 0.3;
+}
+.mp
+{
+	background-color: white;
+	border-width: 3px;
+	border-style: solid;
+	border-color: Gray;
+	padding: 3px;
+}
+.mpHd
+{
+	background-color: #616cae;
+	border-color: White;
+	border-width: 1px;
+	color: White;
+	font-weight: bold;
+	width: 100%;
+	height: 16px;
+}
+.mpClose
+{
+	text-align: center;
+	width: 100%;
+}
+.mpCloseButton
+{
+	position: absolute;
+	right: 4px;
+	width: 17px;
+	height: 18px;
+}

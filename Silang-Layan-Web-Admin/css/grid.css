@@ -1,0 +1,57 @@
+﻿.Grid
+{
+    border: solid 1px #FFFFFF;
+    box-shadow: 0px 0px 6px #666;
+    border-radius: 2px;
+}
+.Grid td
+{
+	border: solid 1px #FFFFFF;
+	margin: 1px;
+	padding: 5px;
+	vertical-align:middle;
+}
+.GridHeader
+{
+	font-weight: bold;
+	background-color: #8b8dbb;
+	color: #FFFFFF;
+	height: 40px;
+}
+.GridHeader a
+{
+	font-weight: bold;
+	background-color: #8b8dbb;
+	color: #FFFFFF;
+	text-align: center;
+}
+.GridItem, .AutoGridItem:nth-child(odd)
+{
+	background-color: #e6e6e6;
+}
+.GridAltItem, .AutoGridItem:nth-child(even)
+{
+	background-color: white;
+}
+
+.PageLabel
+{
+	color: #009999;
+}
+.PageNumberLabel
+{
+	color: #666666;
+}
+.PageNumberNormal
+{
+	color: #3399FF;
+}
+.PageNumberSelected
+{
+	color: #6600FF;
+}
+.JumlahData
+{
+	color: #666666;
+	font-weight: bold;
+}
