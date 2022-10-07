@@ -25,8 +25,8 @@
 <body bgcolor="Gray" style="background:url(images/bgmenu.jpg) center top no-repeat; background-size:cover">
     <form id="form1" runat="server" style="padding: 10px;">
         <div align="center">
-            <p><img src="images/logo.jpeg" style="max-height: 130px;" /> </p>
-            <p><img src="images/silanglayan.jpeg" style="max-height: 30px;" /></p>
+            <p><img src="images/logo.png" style="max-height: 130px;" /> </p>
+            <p><img src="images/silanglayan.png" style="max-height: 30px;" /></p>
         </div>
         <table id="tableMain" align="center" style="margin-left: auto; margin-right: auto; width: 100%;">
             <tr>
