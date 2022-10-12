@@ -24,7 +24,7 @@
     <script src="js/Script.js" type="text/javascript"></script>
     <script src="js/jquery-confirm.js" type="text/javascript"></script>
 </head>
-<body bgcolor="Gray" background="images/bgmenu.jpg">
+<body bgcolor="Gray" style="background:url(images/bgmenu.jpg) center center no-repeat fixed"">
     <form id="form1" runat="server">
         <header id="header" class="cd-main-header">
 		    <a href="#0" class="cd-nav-trigger">Menu<span></span></a>
