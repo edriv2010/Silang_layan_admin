@@ -43,7 +43,7 @@
 		    </nav>
 	    </header> <!-- .cd-main-header -->
 
-        <div align="center" style="background-color: #f1f1f4; padding: 20px; border-radius: 200px 200px 4px 200px; opacity: 0.9; box-shadow: 4px 4px 4px #2E2E2E;">
+        <div align="center" style="background-color: #f1f1f4; padding: 20px; opacity: 0.9; box-shadow: 4px 4px 4px #2E2E2E;">
             <img src="images/perpusnas.png" style="max-height: 50px;" />
         </div>
         <table id="tableMain" class="cd-main-content">
